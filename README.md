@@ -1,8 +1,8 @@
-Stock Price Prediction with Random Forest Classifier
-Purpose
+#Stock Price Prediction with Random Forest Classifier
+##Purpose
 This code aims to predict the direction of stock price movements using historical data and a Random Forest Classifier. The prediction is based on features such as closing price, volume, open price, high, and low. The goal is to create a machine learning model that can help make informed decisions about buying or selling stocks.
 
-Libraries Used
+##Libraries Used
 yfinance: Used for fetching historical stock price data from Yahoo Finance.
 pandas: Utilized for data manipulation and analysis, creating and handling data frames.
 scikit-learn: Used for implementing the Random Forest Classifier model and evaluating its performance.
